@@ -1,0 +1,13 @@
+{
+  "name": "project-directory",
+  "version": "1.0.0",
+  "description": "Profile submission app",
+  "main": "data/server.js",
+  "scripts": {
+    "start": "node data/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
